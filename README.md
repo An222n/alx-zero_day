@@ -1,1 +1,2 @@
-My first readme
+Road to becoming a Software Engineer
+
